@@ -17,10 +17,4 @@ RUN wget -q http://454.com/downloads/DataAnalysis_2.9_All_20130530_1559.tgz && \
     rm -rf DataAnalysis_2.9_All DataAnalysis_2.9_All_20130530_1559.tgz
 
 
-
-
-
 ENV PATH /usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/opt/454/apps/mapper/bin
-
-
-#http://454.com/downloads/DataAnalysis_2.9_All_20130530_1559.tgz
